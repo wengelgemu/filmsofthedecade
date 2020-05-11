@@ -1,0 +1,61 @@
+html {
+  background-color: #10509E;
+  color: #F2E6DD
+}
+.page-header-title {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #F2E6DD;
+  font-size: 100px;
+  font-family: futura-pt, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.page-header-sub {
+  margin-top: 0px;
+  text-align: center;
+  color: #E7B054;
+  font-size: 10px;
+  font-family: futura-pt,sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.f-title{
+  color: #F2E6DD;
+  font-size: 50px;
+  font-family: bookmania,serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.f-title:hover{
+  color: #E7B054;
+  font-weight: 300;
+}
+.f-title:link{
+  text-decoration: none;
+}
+.f-info{
+  font-family: futura-pt,sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.f-info:hover{
+  color: #F97D94;
+}
+
+/* code from https://linkpeek.com/blog/images-on-hover-lib.html */
+img.hover-lib-visible {
+  position: absolute;
+  width: 50%;
+}
+
+.page-bottom{
+  margin-top: 250px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #F2E6DD;
+}
+.page-bottom:hover{
+  color: #C784CE;
+}
